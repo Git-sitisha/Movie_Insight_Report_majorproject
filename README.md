@@ -89,7 +89,7 @@ Academic and data science projects
 
 ---
 ## Dashboard 2
-![Screenshot 2](screenshots/Screenshot-2.png)
+![Screenshot 2](Screenshot2.jpg)
 
 📊 Movie Performance & Trends Dashboard
 
